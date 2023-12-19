@@ -1,0 +1,40 @@
+_repo: Kira-Kiralina-b-Adrien-Zograftin-ensimmainen-kertomus_72153
+_version: 0.0.1
+alternative_title: Kyra Kyralina. Finnish
+contributor:
+  translator:
+    agent_name: Silfverblad, Anna
+    gutenberg_agent_id: '56568'
+    url: http://www.gutenberg.org/2009/agents/56568
+creator:
+  author:
+    agent_name: Istrati, Panait
+    aliases:
+    - Istrati, Ghérassime Panaït
+    - Istrati, Gherassime Panait
+    birthdate: 1884
+    deathdate: 1935
+    gutenberg_agent_id: '56567'
+    url: http://www.gutenberg.org/2009/agents/56567
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Panait_Istrati
+    - https://fi.wikipedia.org/wiki/Panait_Istrati
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72153'
+language: fi
+pgterms:marc905: 20231016100152istrati
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romania -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Kira Kiralina : $b Adrien Zograftin ensimmäinen kertomus'
+url: http://www.gutenberg.org/ebooks/72153
