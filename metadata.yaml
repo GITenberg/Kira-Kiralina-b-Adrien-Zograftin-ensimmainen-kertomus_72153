@@ -6,6 +6,9 @@ contributor:
     agent_name: Silfverblad, Anna
     gutenberg_agent_id: '56568'
     url: http://www.gutenberg.org/2009/agents/56568
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Istrati, Panait
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Panait_Istrati
     - https://fi.wikipedia.org/wiki/Panait_Istrati
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72153#Kira-Kiralina-b-Adrien-Zograftin-ensimmainen-kertomus
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72153'
